@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to my first post!"
-by: "Leandro Ruiz"
+author: "Leandro Ruiz"
 tags: first test
 permalink: /posts/first-post/
 ---
