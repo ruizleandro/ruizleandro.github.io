@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Welcome to my first post!"
+permalink: /posts/first-post/
 ---
 
 # Welcome
