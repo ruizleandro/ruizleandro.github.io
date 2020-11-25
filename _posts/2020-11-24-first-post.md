@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to miy first post!"
+title:  "Welcome to my first post!"
 ---
 
 # Welcome
